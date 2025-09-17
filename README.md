@@ -1,2 +1,2 @@
 # pathogens-portal-hu
-Hungarian Pathongens Portal Node
+Hungarian Pathogens Portal Node
