@@ -1,6 +1,7 @@
 # Hungarian Pathogens Portal Node site
 
-This toolbox contains minimal code for a Pathogens Portal Node (PPN). It was created as part of the [Pathogen Data Network (PDN)](https://pathogendatanetwork.org), funded by NIH (award number U24AI183840).
+This repository contains the webpage for the hungarian
+toolbox contains minimal code for a Pathogens Portal Node (PPN). It was created as part of the [Pathogen Data Network (PDN)](https://pathogendatanetwork.org), funded by NIH (award number U24AI183840).
 
 The toolbox uses a [theme](https://github.com/ScilifelabDataCentre/node-pathogens-portal-theme) inspired by the [Swedish](https://www.pathogens.se/) and [Swiss Pathogens Portal](https://pathogensportal.ch/), and applies the visual identity outlined by the [Central Pathogens Portal](https://www.pathogensportal.org/).
 
