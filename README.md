@@ -1,4 +1,4 @@
-# Pathogens Portal Node toolbox
+# Hungarian Pathogens Portal Node site
 
 This toolbox contains minimal code for a Pathogens Portal Node (PPN). It was created as part of the [Pathogen Data Network (PDN)](https://pathogendatanetwork.org), funded by NIH (award number U24AI183840).
 
