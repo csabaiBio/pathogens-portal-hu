@@ -19,4 +19,5 @@ menu:
 
 The Pathogens Portal is a platform for sharing data and analysis results on infectious diseases. The portal is designed to be a regional hub for researchers, public health officials, and the general public to access and share data on infectious diseases.
 
+This portal reflects the work and publication of the hungarian node.
 The Pathogen Portal Nodes(PPN) will be a part of the <a target="_blank" href="https://pathogendatanetwork.org/">Pathogen Data Network</a> (PDN) working in collaboration with <a target="_blank" href="https://www.pathogensportal.org/">Central Pathogens Portal</a>. For more information about PPN and PDN checkout this <a href="/docs/Onboarding_Introduction.pdf">onboarding material</a>.
