@@ -1,0 +1,9 @@
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      identifier: "about"
+      weight: 2
